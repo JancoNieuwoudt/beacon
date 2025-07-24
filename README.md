@@ -18,6 +18,7 @@ These tests can be expanded upon by "plugins" (through the waypoint library), wh
 Tests are provided with a simple workspace context object, which can be used to navigate through the zip file entries, and workspace type, additionally individual fields can specify which workspace type they apply to, which can then be computed in the test itself.
 
 Team:
-greg354
-cykreet
-JancoNieuwoudt
+
+- greg354
+- cykreet
+- JancoNieuwoudt
