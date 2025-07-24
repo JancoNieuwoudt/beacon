@@ -1,0 +1,13 @@
+C:\Users\janco\Desktop\GitHub\beacon\bin\Debug\beacon.exe.config
+C:\Users\janco\Desktop\GitHub\beacon\bin\Debug\beacon.exe
+C:\Users\janco\Desktop\GitHub\beacon\bin\Debug\beacon.pdb
+C:\Users\janco\Desktop\GitHub\beacon\bin\Debug\waypoint.dll
+C:\Users\janco\Desktop\GitHub\beacon\bin\Debug\waypoint.pdb
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\beacon.csproj.AssemblyReference.cache
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\Beacon.MainForm.resources
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\Beacon.Properties.Resources.resources
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\beacon.csproj.GenerateResource.cache
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\beacon.csproj.CoreCompileInputs.cache
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\beacon.csproj.Up2Date
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\beacon.exe
+C:\Users\janco\Desktop\GitHub\beacon\obj\Debug\beacon.pdb

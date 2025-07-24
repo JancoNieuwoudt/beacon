@@ -1,0 +1,6 @@
+C:\Users\janco\Desktop\GitHub\beacon\Waypoint\bin\Debug\waypoint.dll
+C:\Users\janco\Desktop\GitHub\beacon\Waypoint\bin\Debug\waypoint.pdb
+C:\Users\janco\Desktop\GitHub\beacon\Waypoint\obj\Debug\Waypoint.csproj.AssemblyReference.cache
+C:\Users\janco\Desktop\GitHub\beacon\Waypoint\obj\Debug\Waypoint.csproj.CoreCompileInputs.cache
+C:\Users\janco\Desktop\GitHub\beacon\Waypoint\obj\Debug\waypoint.dll
+C:\Users\janco\Desktop\GitHub\beacon\Waypoint\obj\Debug\waypoint.pdb
