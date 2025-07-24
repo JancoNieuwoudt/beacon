@@ -16,3 +16,8 @@ Beacon defines tests for common attack vectors such as:
 These tests can be expanded upon by "plugins" (through the waypoint library), which Beacon loads and registers at runtime, plugin-based tests have equivalent capabilities to the built-in tests, wherein they can pass a result boolean and a string array of warnings to display.
 
 Tests are provided with a simple workspace context object, which can be used to navigate through the zip file entries, and workspace type, additionally individual fields can specify which workspace type they apply to, which can then be computed in the test itself.
+
+Team:
+greg354
+cykreet
+JancoNieuwoudt
